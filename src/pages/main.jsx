@@ -3,7 +3,7 @@ import englishData from "../englishData.json";
 
 const Main = () => {
   return (
-    <div className="bg-lime-100 min-h-screen max-w-screen-md mx-auto px-8 pt-20">
+    <div className="bg-lime-100 container">
       <div className="flex justify-center ">
         <h1 className="rounded-full bg-lime-300 w-[12rem] h-10 flex justify-center items-center text-2xl font-semibold  ">
           Study English
